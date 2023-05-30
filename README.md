@@ -1,2 +1,2 @@
 # MyTestRepo
-The first test on Gitlab by Hossam
+The first test on Gitlab
